@@ -46,6 +46,7 @@ Each calculator method has its dedicated test class:
 - `CalculatorTangentTest` - Tests trigonometric functions (`tg`, `ctg`, `cos`, `sin`)
 - `CalculatorSignTest` - Tests `isPositive()` and `isNegative()`
 - `TimeoutParallelExecutionTest` - Demonstrates parallel execution using `Timeout.sleep()`
+
 These are only some of the tests that are present in the project
 
 ### 🔗 **Parallel Execution Configuration**
